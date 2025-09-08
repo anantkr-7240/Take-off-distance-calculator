@@ -4,7 +4,6 @@ Calculate takeoff distance for a Cessna 172S aircraft.
 Airport and runway data retrieved from the FAA @ https://adds-faa.opendata.arcgis.com/  
 Aviation weather data retrieved from the NWS @ https://beta.aviationweather.gov/data/example/  
 Magnetic declination (variation) data from the NOAA @ https://www.ngdc.noaa.gov/geomag/CalcSurveyFin.shtml  
-Video Demo: https://youtu.be/PS9F1ajYGcw
 
 ---
 ## Description
